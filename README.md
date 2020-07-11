@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋
 
-<!--
-**evilj0e/evilj0e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Anton Konev. I develop apps & launch online-services. I help companies build fast and user-friendly interfaces and reach their goals.
 
-Here are some ideas to get you started:
+I prefer to make projects from scratch: to build architecture, to prototype, to collect metrics and work fast. Interested in challenging projects in ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At present, I’m developing frontend at [ARRIVAL Ltd](arrival.com).
+
+I launched Youtube channel «[Anton code it](https://www.youtube.com/channel/UCHzF5bfyReSsXy_C6v8_W7g)» with Javascript live coding sessions. I share knowledge about JS, discuss my solutions and solutions of my colleagues.
+
+### 🌎
+
+- Personal site: [antonkonev.com](https://antonkonev.com)
+- Youtube: [Anton code it](https://www.youtube.com/channel/UCHzF5bfyReSsXy_C6v8_W7g)
+- Telegram: [@evilj0e](https://t.me/evilj0e)
+- Email: [info@antonkonev.com](mailto:info@antonkonev.com)

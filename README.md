@@ -4,7 +4,7 @@ I develop apps & launch online-services. I help companies build fast and user-fr
 
 I prefer to make projects from scratch: to build architecture, to prototype, to collect metrics and work fast. Interested in challenging projects in ML.
 
-At present, I’m a Lead Software Engineer at Stealth startup.
+At present, I’m a Lead Software Engineer at [recraft.ai](https://recraft.ai).
 
 I launched Youtube channel «[Anton code it](https://www.youtube.com/channel/UCHzF5bfyReSsXy_C6v8_W7g)» with Javascript live coding sessions. I share knowledge about JS, discuss my solutions and solutions of my colleagues.
 

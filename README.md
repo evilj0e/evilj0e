@@ -1,14 +1,13 @@
-### Hello! My name is Anton Konev
+### Hello! It's Anton Konev
 
-I develop apps & launch online-services. I help companies build fast and user-friendly interfaces and reach their goals.
+Experienced Engineering Leader with over 10 years of expertise in building scalable
+solutions, managing cross-functional teams, and delivering high-impact projects for global
+audiences.
 
-I prefer to make projects from scratch: to build architecture, to prototype, to collect metrics and work fast. Interested in challenging projects in ML.
+A UK Global Talent visa holder, recognized for driving innovation, optimizing workflows,
+and achieving measurable results. Passionate about leading teams to solve complex
+challenges and create technology that shapes the future.
 
 At present, I’m an Engineering Team Lead at [recraft.ai](https://recraft.ai).
 
-### Contacts
-
-- Personal site: [antonkonev.com](https://antonkonev.com)
-- Youtube: [Anton code it](https://www.youtube.com/channel/UCHzF5bfyReSsXy_C6v8_W7g)
-- Telegram: [@evilj0e](https://t.me/evilj0e)
-- Email: [info@antonkonev.com](mailto:info@antonkonev.com)
+[linkedin](https://www.linkedin.com/in/antonkonevcom) / [email](mailto:info@antonkonev.com) / [telegram](https://t.me/evilj0e) / [tg channel](https://t.me/antonkonevcom)

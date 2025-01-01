@@ -10,4 +10,4 @@ challenges and create technology that shapes the future.
 
 At present, I’m an Engineering Team Lead at [recraft.ai](https://recraft.ai).
 
-[linkedin](https://www.linkedin.com/in/antonkonevcom) / [email](mailto:info@antonkonev.com) / [telegram](https://t.me/evilj0e) / [tg channel](https://t.me/antonkonevcom)
+[cv](https://evilj0e.github.io/react-pdf-cv-template/cv.pdf) / [linkedin](https://www.linkedin.com/in/antonkonevcom) / [email](mailto:info@antonkonev.com) / [telegram](https://t.me/evilj0e) / [tg channel](https://t.me/antonkonevcom)
